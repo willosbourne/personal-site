@@ -32,6 +32,7 @@ Frameworks and Libraries:
 
 Tools:
 
+- Git
 - Visual Studio
 - VS Code
 - Postman
