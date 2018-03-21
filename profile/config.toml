@@ -230,6 +230,11 @@ defaultContentLanguageInSubdir = false
   #   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//www.linkedin.com/in/will-osbourne-developer"
+
+  [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/willosbourne"

@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Web Development",
-    "Making fully complete sections of this site",
-    "Lying about the second items in lists"
+    "Full Stack Development",
+    "Web Design",
+    "I.T. Management"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,6 +35,4 @@ weight = 5
 
 # Biography
 
-Will Osbourne is a web developer who is bad at writing descriptions. If you're reading this, you came to the page a bit early. Welcome!
-
-This site, while technically deployed still contains a lot of example framework. Not everything on this page is representative of me, and therefore should not be taken as fact. 
+Will Osbourne is a student and software developer located in Cincinnati, Ohio. He currently attends the University of Cincinnati in the class of 2021 Computer Science program, and works as a web developer at Seven Hills Technology.

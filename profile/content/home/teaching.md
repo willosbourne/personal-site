@@ -8,17 +8,32 @@ date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Skills"
-subtitle = "kinda?"
+subtitle = "and Tools"
 
 # Order that this section will appear in.
 weight = 60
 
 +++
 
-Heres a list of things for no real reason other than having a test list
+Languages of Proficiency:
 
-Boop doop:
+- Javascript
+- HTML
+- CSS
+- C#
+- C++
+- SQL
 
-- yeet
-- yeet yeet
-- yeet yeet yeet
+Frameworks and Libraries:
+
+- Angular JS
+- Node.js
+- Sequelize
+
+Tools:
+
+- Visual Studio
+- VS Code
+- Postman
+- Slack
+- Quip
