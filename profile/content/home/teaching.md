@@ -37,4 +37,5 @@ Tools:
 - VS Code
 - Postman
 - Slack
+- Teams
 - Quip
