@@ -239,6 +239,11 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//github.com/willosbourne"
 
+  [[params.dev]]
+    icon = "javascript"
+    icon_pack = "fa"
+    link = ""
+
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the

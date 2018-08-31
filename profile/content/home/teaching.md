@@ -17,20 +17,30 @@ weight = 60
 
 Languages of Proficiency:
 
-- Javascript
-- HTML
-- CSS
-- C#
-- C++
-- SQL
+  |   |  
+:---: | :---: | :---:
+<img src="/img/icons/javascript/javascript-plain.svg" width="100" height="100" alt="javascript"> | <img src="/img/icons/html5/html5-plain.svg" width="100" height="100" alt="html5"> | <img src="/img/icons/css3/css3-plain.svg" width="100" height="100" alt="css3">
+Javascript | HTML | CSS
+<img src="/img/icons/mysql/mysql-plain.svg" width="100" height="100" alt="mysql"> | <img src="/img/icons/csharp/csharp-plain.svg" width="100" height="100" alt="csharp"> | <img src="/img/icons/cplusplus/cplusplus-plain.svg" width="100" height="100" alt="cplusplus">
+MySQL | C# | C++
+
 
 Frameworks and Libraries:
 
+  |   |  
+:---: | :---: | :---:
+<img src="/img/icons/angularjs/angularjs-plain.svg" width="100" height="100" alt="angularjs"> | <img src="/img/icons/nodejs/nodejs-plain.svg" width="100" height="100" alt="nodejs"> | <img src="/img/icons/dot-net/dot-net-plain.svg" width="100" height="100" alt="dot-net">
+
 - Angular JS
 - Node.js
+- .NET
 - Sequelize
 
 Tools:
+
+  |   |  
+--- | --- | ---
+<img src="/img/icons/git/git-plain.svg" width="100" height="100" alt="git"> | <img src="/img/icons/visualstudio/visualstudio-plain.svg" width="100" height="100" alt="visualstudio"> | <img src="/img/icons/slack/slack-plain.svg" width="100" height="100" alt="slack">
 
 - Git
 - Visual Studio
