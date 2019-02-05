@@ -30,22 +30,16 @@ Frameworks and Libraries:
   |   |  
 :---: | :---: | :---:
 <img src="/img/icons/angularjs/angularjs-plain.svg" width="100" height="100" alt="angularjs"> | <img src="/img/icons/nodejs/nodejs-plain.svg" width="100" height="100" alt="nodejs"> | <img src="/img/icons/dot-net/dot-net-plain.svg" width="100" height="100" alt="dot-net">
+AngularJS | Node.js | .NET
+ | Sequelize |
 
-- Angular JS
-- Node.js
-- .NET
-- Sequelize
 
 Tools:
 
   |   |  
---- | --- | ---
+:---: | :---: | :---:
 <img src="/img/icons/git/git-plain.svg" width="100" height="100" alt="git"> | <img src="/img/icons/visualstudio/visualstudio-plain.svg" width="100" height="100" alt="visualstudio"> | <img src="/img/icons/slack/slack-plain.svg" width="100" height="100" alt="slack">
+Git | Visual Studio | Slack
+Postman | VS Code | Teams
+ | Quip |
 
-- Git
-- Visual Studio
-- VS Code
-- Postman
-- Slack
-- Teams
-- Quip
