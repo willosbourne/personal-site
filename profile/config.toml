@@ -217,7 +217,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:will@osbourne.org"
+    link = "mailto:hey@willosbourne.com"
 
   # [[params.social]]
   #   icon = "twitter"
@@ -277,6 +277,12 @@ defaultContentLanguageInSubdir = false
   name = "Contact"
   url = "#contact"
   weight = 6
+
+[[menu.main]]
+  name = "Co-op Experience"
+  url = "#coop"
+  weight = 7
+
 
 # Taxonomies.
 [taxonomies]
