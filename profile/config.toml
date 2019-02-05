@@ -59,7 +59,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "headshot.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "will@osbourne.org"
+  email = "hey@willosbourne.com"
   address = ""
   office_hours = ""
   phone = "937 361 2176"
@@ -281,7 +281,17 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Co-op Experience"
   url = "#coop"
+  weight = 6
+
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
   weight = 7
+
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 8
 
 
 # Taxonomies.

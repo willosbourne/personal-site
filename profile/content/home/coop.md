@@ -8,8 +8,14 @@ title = "Co-op Experience"
 subtitle = "Hands on Learning"
 
 # Order that this section will appear in.
-weight = 80
+weight = 70
 
 +++
 
-what up
+# I'm technically employable!
+## Here's where I talk about how my coop went
+it was good
+
+## And here, i'll talk about some other stuff
+Yes, stuff.
+
