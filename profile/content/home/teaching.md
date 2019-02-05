@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-Languages of Proficiency:
+<!-- Languages of Proficiency:
 
 - Javascript
 - HTML
@@ -38,4 +38,25 @@ Tools:
 - Postman
 - Slack
 - Teams
-- Quip
+- Quip -->
+
+### Languages Of Proficiency:
+||||
+| :---: | :---: | :---: |
+| JavaScript | TypeScript | HTML 
+| CSS | SQL | MATLAB |
+| C# | C++ | |
+
+### Frameworks and Libraries:
+||||
+| :---: | :---: | :---: |
+| Angular JS | React | .NET Core|
+| Node.js | Sequelize | Elastic |
+
+### Tools:
+||||
+| :---: | :---: | :---: |
+| Git | Visual Studio | VS Code |
+| Postman | Docker | Jest | 
+| Jira | Notion | Target Process|
+| Slack | Teams | Quip |

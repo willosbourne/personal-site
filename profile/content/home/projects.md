@@ -21,3 +21,15 @@ But hey, at least tables probably work?
 | --- | --- |
 | that's | radical |
 | I need to find out | How I'm gonna format stuff in `.md` |
+
+_By the way_ this is how you put images in a markdown page, because I know you're gonna wanna know, and I know you're not gonna remember.
+```
+![Example Image](/img/portrait-placeholder.jpg)
+```
+# ⬆️
+
+results in
+
+# ⬇️
+
+![Example Image](/img/portrait-placeholder.jpg)
