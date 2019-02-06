@@ -1,4 +1,4 @@
 [submodule "profile/public"]
 	path = profile/public
-	url = git@github.com:willosbourne/willosbourne.github.io.git
+	url = https://github.com/willosbourne/willosbourne.github.io.git
 	branch = master
