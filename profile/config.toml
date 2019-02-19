@@ -1,6 +1,8 @@
 # Configuration of Academic
 # Documentation: https://sourcethemes.com/academic/
 
+# Another good resource: https://lmyint.github.io/post/hugo-academic-tips/
+
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "/"
@@ -43,7 +45,8 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  #   Added custom themes in /themes/academic/data/themes/***.toml:   `wills-custom.toml`
+  color_theme = "wills-custom"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.

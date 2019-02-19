@@ -15,31 +15,6 @@ weight = 60
 
 +++
 
-<!-- Languages of Proficiency:
-
-- Javascript
-- HTML
-- CSS
-- C#
-- C++
-- SQL
-
-Frameworks and Libraries:
-
-- Angular JS
-- Node.js
-- Sequelize
-
-Tools:
-
-- Git
-- Visual Studio
-- VS Code
-- Postman
-- Slack
-- Teams
-- Quip -->
-
 ### Languages Of Proficiency:
 ||||
 | :---: | :---: | :---: |
@@ -50,8 +25,9 @@ Tools:
 ### Frameworks and Libraries:
 ||||
 | :---: | :---: | :---: |
-| Angular JS | React | .NET Core|
-| Node.js | Sequelize | Elastic |
+| AngularJS | React | .NET Core|
+| Node.js | Sequelize | hapi.js |
+| Hugo | Gatsby | Elastic |
 
 ### Tools:
 ||||

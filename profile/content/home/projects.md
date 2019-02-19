@@ -18,10 +18,12 @@ weight = 80
 - Maybe talk about bang-tilde? 
 - Talk about ideas for blog post (ie creativity with tech => productivity)
 
+# Postman 
+
 ## Time to tie my self worth to how I spend my free time
 Since I spend a lot of my day working, and a lot of it doing things to keep myself alive, that means I should spend my remaining hours doing more coding, right? Who would want a creative outlet or something when you can do _more and more of the same thing **until you die**._
 
-But hey, at least tables probably work?
+<!-- But hey, at least tables probably work?
 
 | they | do |
 | --- | --- |
@@ -38,4 +40,4 @@ results in
 
 # ⬇️
 
-![Example Image](/img/portrait-placeholder.jpg)
+![Example Image](/img/portrait-placeholder.jpg) -->

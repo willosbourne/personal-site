@@ -32,7 +32,6 @@ weight = 5
 #  year = 2008
  
 +++
-
 # Biography
 
 Will Osbourne is a student and software developer located in Cincinnati, Ohio. He currently attends the University of Cincinnati in the class of 2021 Computer Science program, and works as a web developer at Seven Hills Technology.
