@@ -14,4 +14,9 @@ weight = 90
 autolink = true
 
 +++
+<i class="fa fa-file fa-2x"></i>&nbsp;&nbsp;&nbsp;&nbsp; [Resume](files/resume/will-osbourne-resume.pdf)
+
+<i class="fa fa-envelope fa-2x"></i>&nbsp;&nbsp;&nbsp; [hey@willosbourne.com](mailto:hey@willosbourne.com)
+
+<i class="fa fa-phone fa-2x"></i> &nbsp;&nbsp;&nbsp;&nbsp;[937 361 2176](tel:9373612176)
 
