@@ -14,7 +14,7 @@ weight = 70
 
 ## Seven Hills Technology
 
-I've worked at [Seven Hills Technology](https://sevenhillstechnology.com/) since May of 2017, after my first two semesters at the University of Cincinnati. At this job, I'm a junior software / web developer. Throughout my academic terms, I continue to work part time, both operating remotely and going into the office on occasion.
+My currect job is at [Seven Hills Technology](https://sevenhillstechnology.com/) since May of 2017, after my first two semesters at the University of Cincinnati. At this job, I'm a junior software / web developer. Throughout my academic terms, I continue to work part time, both operating remotely and going into the office on occasion.
 
 Working at Seven Hills gave me the oppertunity to work both as a team member for a contracted business, and on internal projects. Working with clients where the software and web applications are not the sole purpose helps me learn how to prioritize business needs into the end product. On the flip side, these internal projects are run by Seven Hills or business partners such as [Reperio](https://reper.io/) have shown how working in a highly developer focused environment can be incredibly productive while still yeilding in a fantastic end product.
 
