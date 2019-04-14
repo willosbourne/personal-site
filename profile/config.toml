@@ -287,19 +287,24 @@ defaultContentLanguageInSubdir = false
   weight = 6
 
 [[menu.main]]
+  name = "Career Goals"
+  url = "#careergoals"
+  weight = 7
+
+[[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 7
+  weight = 8
 
 [[menu.main]]
   name = "Resume"
   url = "#resume"
-  weight = 8
+  weight = 9
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 9
+  weight = 10
 
 
 # Taxonomies.
