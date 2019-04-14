@@ -24,6 +24,16 @@ As a consulting and contracting company, my time at Seven Hills has been full of
 
 Some of the more interesting projects that I was able to work on, or take a leading role in have been the development of an intercompany API to move a client away from a file based data transfer system, as well as exploring efficient means of handling an influx of data that requires intense sorting and processing in a way that doesn't impact the business from continuing normal operations.
 
+## Session Breakdown
+
+### Spring 2018
+
+In the start of my time working with Seven Hills, I was writing code from day one. I started working on a customer facing .NET application. This was a great introduction to large scale web development for me, as I got clear instruction performing small updates and bug fixes. This session also introduced me to proper git practices and working in a scrum / kanban environment.
+
+### Fall 2018
+
+After gaining experience, I started to split my work mainly between incrementally overhauling the UI of the .NET site I worked on previously, and learning more JavaScript on an AngularJS / NodeJS site for the same company. This gave me the opportunity to experience working on different applications in the same company, and understand how the data interacted between them. During this time, I also began working for a few days a week on-site with the client company, which helped me learn how to work in different environments, and be a representative for my company.
+
 <!--
 ## Hey look, shortcodes are neat
 
