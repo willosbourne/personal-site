@@ -17,7 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Pursuing BS of Computer Science"
+  course = "Pursuing Bachelor of Science in Computer Science"
   institution = "University of Cincinnati"
   year = 2021
 
@@ -32,7 +32,6 @@ weight = 5
 #  year = 2008
  
 +++
+# About Me
 
-# Biography
-
-Will Osbourne is a student and software developer located in Cincinnati, Ohio. He currently attends the University of Cincinnati in the class of 2021 Computer Science program, and works as a web developer at Seven Hills Technology.
+I am a student and software developer located in Cincinnati, Ohio. I currently attend the University of Cincinnati in the class of 2021 Computer Science program, and I work as a web developer at Seven Hills Technology.

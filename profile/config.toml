@@ -1,6 +1,8 @@
 # Configuration of Academic
 # Documentation: https://sourcethemes.com/academic/
 
+# Another good resource: https://lmyint.github.io/post/hugo-academic-tips/
+
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "/"
@@ -43,7 +45,8 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  #   Added custom themes in /themes/academic/data/themes/***.toml:   `wills-custom.toml`
+  color_theme = "wills-custom"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -59,10 +62,10 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "headshot.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "will@osbourne.org"
+  email = ""
   address = ""
   office_hours = ""
-  phone = "937 361 2176"
+  phone = ""
   skype = ""
   telegram = ""
 
@@ -217,12 +220,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:will@osbourne.org"
-
-  # [[params.social]]
-  #   icon = "twitter"
-  #   icon_pack = "fa"
-  #   link = "//twitter.com/Google"
+    link = "mailto:hey@willosbourne.com"
 
   # [[params.social]]
   #   icon = "google-scholar"
@@ -238,6 +236,11 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/willosbourne"
+
+  [[params.social]]
+    icon = "file"
+    icon_pack = "fa"
+    link = "/files/resume/will-osbourne-resume.pdf"
 
 
 # Navigation Links
@@ -277,6 +280,32 @@ defaultContentLanguageInSubdir = false
   name = "Contact"
   url = "#contact"
   weight = 6
+
+[[menu.main]]
+  name = "Co-op Experience"
+  url = "#coop"
+  weight = 6
+
+[[menu.main]]
+  name = "Career Goals"
+  url = "#careergoals"
+  weight = 7
+
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 8
+
+[[menu.main]]
+  name = "Resume"
+  url = "#resume"
+  weight = 9
+
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 10
+
 
 # Taxonomies.
 [taxonomies]
